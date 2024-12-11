@@ -2,9 +2,13 @@
 // Distributed under the MIT software license
 
 //This file is generated automatically. Do not edit it!
-
 export const fixtures = {
-  valid: [
+  valid: [ 
+    {
+      descriptor: "tr(02b733c776dd7776657c20a58f1f009567afc75db226965bce83d5d0afc29e46c9,and_v(v:pk(xpub6C1F2SwADP3TNajQjg2PaniEGpZLvWdMiFP8ChPjQBRWD1XUBeMdE4YkQYvnNhAYGoZKfcQbsRCefserB5DyJM7R9VR6ce6vLrXHVfeqyH3),multi_a(2,xpub661MyMwAqRbcGZyAy829dFg4R4p57N4Nh4zR55zqvuNgDiXBoWNEXD1wn97dtBNnPiaJqriRMGk4T6t3chbRRY6GrgdPDWH4nzCZHvyy2qY,xpub68ur3dcXP6MVEauT946F9GXVTPsj7zdYdjoRDrMcjBPyVwYecK7BuGxKLzLH7FkgxJB2oZZ2BuC3NWBoPC8wFJKcevPrBzPeqWfgL7YV797,xpub661MyMwAqRbcFYiY15CaCMn7Egfwnf9i2GCD2T5HSfdmBGZiAv7ZvjC49JxXHZ1BaAzp3raZBGAvjxNYXZNZ82fr1xM7DFnT4r4ZswY4f4q)))",
+      script: "2103a34b99f22c790c4e36b2b3c2c35a36db06226e41c692fc82b8b56ac1c540c5bdac",
+      checksumRequired: false,
+    },
     {
       descriptor: "pk(L4rK1yDtCWekvXuE6oXD9jCYfFNV2cWRpVuPLBcCU2z8TrisoyY1)",
       script: "2103a34b99f22c790c4e36b2b3c2c35a36db06226e41c692fc82b8b56ac1c540c5bdac",
